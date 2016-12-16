@@ -1,10 +1,10 @@
 # tabsAccessible
-Tabs web accesible, html y js
+Tabs web accessible, html y js
 
 The proyect contains:
-	
+
 	role="tablist"
-	role="tab" 
+	role="tab"
 	role="tabpanel"
 
 	aria-controls="tabPanelx"
